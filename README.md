@@ -60,7 +60,7 @@ This is the recommended way to start the app if you have a virtual environment s
 
 - The app automatically reads your Pinecone and OpenAI API keys from the `.env` file in the project root
 - You can also manually enter your API keys, index name, and namespace in the sidebar
-- The default Pinecone index is `msft-deep-search-oai-3-small` (host: `https://msft-deep-search-oai-3-small-q0sfhsc.svc.aped-4627-b74a.pinecone.io`)
+- The default Pinecone index is `msft-deep-search-oai-3-small` (host: `https://your-pinecone-index-host.pinecone.io`)
 
 ### Searching
 
